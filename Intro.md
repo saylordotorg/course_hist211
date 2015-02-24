@@ -1,4 +1,11 @@
-Course Syllabus for "HIST211: Introduction to United States History: Colonial Period to Reconstruction"
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
 -------------------------------------------------------------------------------------------------------
 
 This course will introduce you to United States history from the

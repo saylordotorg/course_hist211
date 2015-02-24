@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Impending Crisis** <span id="8"></span> 
 *In the 1850s, the “slavery question” fomented sectional crises that
 threatened to destroy the very existence of the federal union. Two main

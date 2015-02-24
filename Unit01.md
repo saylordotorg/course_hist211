@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Creating British America** <span id="1"></span> 
 *That North America eventually became British America was not a given.
 During the 16th and 17th centuries, several European powers – including

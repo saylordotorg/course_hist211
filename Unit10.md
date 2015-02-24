@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: The Civil War** <span id="10"></span> 
 *The outbreak of a civil war between the Union and the Confederacy
 marked the collapse of the federal union created by the Founders in

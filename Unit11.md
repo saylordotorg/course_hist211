@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Reconstruction** <span id="11"></span> 
 *Even before the last shots of the Civil War had been fired, President
 Lincoln and members of Congress faced serious questions about how to

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Westward Expansion** <span id="7"></span> 
 *John L. O’Sullivan, editor of the influential* United States Magazine
 and Democratic Review*, gave the expansionist movement now referred to

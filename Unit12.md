@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../../../
+previous: ../Unit11
+---
 **Unit 12: Final Exam** <span id="12"></span> 
 -   **Final Exam: The Saylor Foundation’s “HIST211-SL Final Exam”**
     Link: The Saylor Foundation’s [“HIST211-SL Final

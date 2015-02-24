@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Secession** <span id="9"></span> 
 *In 1860, it was by no means clear that the South would secede or that
 civil war would be unleashed between two rival sections of the same

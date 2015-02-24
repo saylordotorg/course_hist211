@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: A New Nation Forms** <span id="2"></span> 
 *In the wake of the Seven Years’ War, Britain imposed new taxes and
 restrictions upon the British American colonies to help pay for the war.

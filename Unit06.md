@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: An Age of Reform and Resistance** <span id="6"></span> 
 *The antebellum years were a period of rapid social change in America.
 Many distinct groups – including religious sects, slaves, free blacks,

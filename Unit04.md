@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Democracy in America** <span id="4"></span> 
 *In the 1820s and 1830s, all signs seemed to point toward the rise of a
 mature democratic nation*: *the period saw record-high voter turnouts at

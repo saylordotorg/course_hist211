@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Early Republic** <span id="3"></span> 
 *The Early American Republic emerged amidst a period of modernization,
 expansion, and international conflict. The fragile new nation faced a

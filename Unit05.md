@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST211: Introduction to United States History - Colonial Period to Reconstruction"
+course_description: "An introduction to United States history from the colonial period to the Civil War and Reconstruction. Focuses on the major political, economic, and social changes that took place in America during this 250-year period."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: North and South** <span id="5"></span> 
 *The new democratic spirit of the early 19<sup>th</sup> century was also
 threatened by growing sectional differences and ideologies*:
