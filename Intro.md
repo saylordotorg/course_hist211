@@ -161,3 +161,4 @@ yourself. 
 - [Unit 10](https://legacy.saylor.org/hist211/Unit10/)
 - [Unit 11](https://legacy.saylor.org/hist211/Unit11/)
 - [Unit 12](https://legacy.saylor.org/hist211/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST211/HIST211-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST211/HIST211-FinalExam-Answers.html)
