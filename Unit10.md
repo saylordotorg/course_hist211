@@ -398,7 +398,7 @@ id="10.4.4"></span> 
     with the 33rd United States Colored Troops"**
     Link: Susie King Taylor's ["Reminiscences of My Life in Camp with
     the 33rd United States Colored
-    Troops" ](http://www.saylor.org/site/wp-content/uploads/2013/12/Susie-King-Taylor-Assists-the-First-South-Carolina-Volunteers-1862%E2%80%931864.pdf#page=37)(HTML)  
+    Troops" ](https://resources.saylor.org/archived/wp-content/uploads/2013/12/Susie-King-Taylor-Assists-the-First-South-Carolina-Volunteers-1862%E2%80%931864.pdf#page=37)(HTML)  
       
      Instructions: Read pages 15–17, 22–28, and 31–34 of Susie King
     Taylor's memoir. While the Civil War is often rightly recognized for
