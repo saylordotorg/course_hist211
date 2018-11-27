@@ -60,7 +60,7 @@ Upon successful completion of this unit, you will be able to:
     1: Early America”**
     Link: America.gov Archive: *Outline of U.S. History*: [<span
     lang="EN">“Chapter 1: Early
-    America”</span>](http://www.saylor.org/site/wp-content/uploads/2013/10/Outline-of-US-History.pdf#page=7) (PDF)  
+    America”</span>](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Outline-of-US-History.pdf#page=7) (PDF)  
       
      Instructions: Read the first chapter (pages 4-21) of the U.S.
     Department of State's *Outline of U.S. History*. This chapter
@@ -78,7 +78,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Concepcion Saenz-Camba’s “The Atlantic World,
     1492–1600”**
     Link: Concepcion Saenz-Camba’s [“The Atlantic World,
-    1492–1600”](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)  
+    1492–1600”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)  
       
      Instructions: Read this article, which discusses the history of
     early European exploration and colonization of North America and the
@@ -437,7 +437,7 @@ Upon successful completion of this unit, you will be able to:
     Description of New England***
     Link: The Berkeley Electronic Press: John Smith’s [*A Description of
     New
-    England*](http://www.saylor.org/site/wp-content/uploads/2013/11/HIST211-1.1.5-A-Description-of-New-England-PD.pdf) (PDF)  
+    England*](https://resources.saylor.org/archived/wp-content/uploads/2013/11/HIST211-1.1.5-A-Description-of-New-England-PD.pdf) (PDF)  
       
      Instructions: Read the text to get a sense of an Englishman’s
     perception of uncharted territory in northern North America in the
@@ -740,7 +740,7 @@ Upon successful completion of this unit, you will be able to:
 <span id="1.2.5"></span> 
 -   **Reading: Wikipedia: “Thirteen Colonies”**
     Link: Wikipedia: [“Thirteen
-    Colonies”](http://www.saylor.org/site/wp-content/uploads/2011/05/Thirteen-Colonies.pdf) (PDF)  
+    Colonies”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Thirteen-Colonies.pdf) (PDF)  
       
      Instructions: Read this article. While studying the resources in
     this subunit as well as subunits 1.2.2, 1.2.3, and 1.2.4 above,
@@ -765,7 +765,7 @@ id="1.3.1"></span> 
     America*: “Chapter 10: Colonial Government”**
     Link: Henry William Elson’s *History of the United States of
     America*: [“Chapter 10: Colonial
-    Government”](http://www.saylor.org/site/wp-content/uploads/2010/11/History-of-the-United-States-of-America-Volume-I-from-p.-293.pdf) (PDF)  
+    Government”](https://resources.saylor.org/archived/wp-content/uploads/2010/11/History-of-the-United-States-of-America-Volume-I-from-p.-293.pdf) (PDF)  
       
      Available in:  
      [eText Format for Google
@@ -837,7 +837,7 @@ id="1.3.1"></span> 
     Indentured Servitude in the American Colonies”**
     Link: The Saylor Foundation: David Toye’s [“Slavery and Indentured
     Servitude in the American
-    Colonies”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST211-SL-OC-Subunit-1.3.2-FINAL.pdf)
+    Colonies”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST211-SL-OC-Subunit-1.3.2-FINAL.pdf)
     (PDF)  
       
      Instructions: Read this article, which describes the employment of
