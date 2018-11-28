@@ -140,7 +140,7 @@ Upon successful completion of this unit, you will be able to:
      Studying this map should take less than 15 minutes.  
       
 
-    [![](https://resources.saylor.org/archived/wp-content/uploads/2013/11/HIST211-3.1.2-U.S.-Territorial-Acquisitions-PD.png)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/HIST211-3.1.2-U.S.-Territorial-Acquisitions-PD.png)  
+    [![](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/HIST211-3.1.2-U.S.-Territorial-Acquisitions-PD.png)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/HIST211-3.1.2-U.S.-Territorial-Acquisitions-PD.png)  
       
      Terms of Use: This resource is in the Public Domain.
 
@@ -244,7 +244,7 @@ Upon successful completion of this unit, you will be able to:
     and It Is Us!”**
     Link: H-Net: Tom Downey’s [“We Have Met the Market Revolution, and
     It Is
-    Us!”](https://resources.saylor.org/archived/wp-content/uploads/2013/11/HIST211-3.2.1-We-Have-Met-the-Market-Revolution-and-It-Is-Us-Permission.pdf) (PDF)  
+    Us!”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/HIST211-3.2.1-We-Have-Met-the-Market-Revolution-and-It-Is-Us-Permission.pdf) (PDF)  
       
      Instructions: Read this review of John Lauritz Larson’s *Internal
     Improvement*: *National Public Works and the Promise of Popular

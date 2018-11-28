@@ -56,7 +56,7 @@ Upon successful completion of this unit, you will be able to:
     5: Westward Expansion and Regional Differences”**
     Link: America.gov Archive’s *Outline of U.S. History*: [“Chapter 5:
     Westward Expansion and Regional
-    Differences”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Outline-of-US-History.pdf#page=113) (PDF)  
+    Differences”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Outline-of-US-History.pdf#page=113) (PDF)  
       
      Instructions: Read Chapter 5 to learn about western settlement and
     frontier life in the early 19<sup>th</sup> century. Be sure to study

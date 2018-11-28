@@ -133,7 +133,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: Samuel Adams’ “The Rights of the Colonists”**
     Link: Samuel Adams’ [“The Rights of the
-    Colonists”](https://resources.saylor.org/archived/wp-content/uploads/2010/11/The-Rights-of-the-Colonists.pdf) (PDF)  
+    Colonists”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/11/The-Rights-of-the-Colonists.pdf) (PDF)  
       
      Also available in:  
      [eText Format for Google
@@ -177,7 +177,7 @@ Upon successful completion of this unit, you will be able to:
 **2.1.3 Reconciliation or Independence?** <span id="2.1.3"></span> 
 -   **Reading: Thomas Paine’s Common Sense, Part III**
     Link: Thomas Paine’s [*Common Sense, Part
-    III*](https://resources.saylor.org/archived/wp-content/uploads/2014/06/HIST211-Common-Sense-Thoughts-of-the-Present-State-of-American-Affairs.pdf) (HTML)  
+    III*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/HIST211-Common-Sense-Thoughts-of-the-Present-State-of-American-Affairs.pdf) (HTML)  
       
      Also available in:  
      [eText Format for Google
@@ -246,7 +246,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Thomas Johnson, Jr.’s “Letter to Horatio Gates, May 3,
     1775”**
     Link: Thomas Johnson, Jr.’s [“Letter to Horatio Gates, May 3,
-    1775”](https://resources.saylor.org/archived/wp-content/uploads/2010/11/Letter-Thomas-Johnson-Jr.-to-To-Horatio-Gates.pdf) (PDF)  
+    1775”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/11/Letter-Thomas-Johnson-Jr.-to-To-Horatio-Gates.pdf) (PDF)  
       
      Instructions: Read this letter. In the wake of the skirmishes
     between American militiamen and British troops in 1775, Maryland
@@ -332,7 +332,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: “The Declaration of Independence”**
     Link: [“The Declaration of
-    Independence”](https://resources.saylor.org/archived/wp-content/uploads/2010/11/The-Declaration-of-Independence.pdf) (PDF)  
+    Independence”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/11/The-Declaration-of-Independence.pdf) (PDF)  
       
      Also available in:  
      [eText Format for Google

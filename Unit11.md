@@ -44,7 +44,7 @@ Upon successful completion of this unit, you will be able to:
     Civil War and Reconstruction”**
     Link: America.gov Archive’s *Outline of U.S. History*: [“The Civil
     War and
-    Reconstruction”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/Outline-of-US-History.pdf#page=143) (PDF)  
+    Reconstruction”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/Outline-of-US-History.pdf#page=143) (PDF)  
       
      Instructions: Scroll down the webpage to begin with the section
     entitled “With Malice toward None” and finish reading the remainder
